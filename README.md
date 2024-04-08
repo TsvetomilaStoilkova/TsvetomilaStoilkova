@@ -6,13 +6,6 @@
 
 💼 I’m actively seeking internship or junior positions where I can collaborate with experienced developers to gain knowledge and experience.
 
-📫 How to reach me:
-<br/> 
-cvetomilazdravkova@gmail.com
-<br/>
-[GitHub](https://github.com/TsvetomilaStoilkova)
-<br/>
-[LinkedIn](https://linkedin.com/in/TsvetomilaStoilkova)
 
 ## Education
 
@@ -40,3 +33,10 @@ cvetomilazdravkova@gmail.com
 ## 📂 Furthermore
  I'm regularly practicing and honing my skills post-academy with exercises and small projects. You can find these exercises in a folder named "CodePractice" in this repository.
 
+## 📫 How to reach me:
+<br/> 
+cvetomilazdravkova@gmail.com
+<br/>
+[GitHub](https://github.com/TsvetomilaStoilkova)
+<br/>
+[LinkedIn](https://linkedin.com/in/TsvetomilaStoilkova)

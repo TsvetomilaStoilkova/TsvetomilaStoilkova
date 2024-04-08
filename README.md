@@ -1,6 +1,6 @@
 👋 Hi, I’m @TsvetomilaStoilkova
 
-👀 I’m interested in front-end development, for now particularly in React.js.
+👀 I’m interested in front-end development.
 
 🌱 I’m currently learning TypeScript to strengthen my skills and improve my development workflow.
 

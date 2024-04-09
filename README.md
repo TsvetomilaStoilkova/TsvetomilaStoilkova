@@ -14,12 +14,17 @@
 
 📁 You can find projects from my recent completion of the Telerik Academy Alpha JavaScript Track, which I completed with my colleagues, here: [JS-Masters GitHub Organization](https://github.com/orgs/JS-Masters/repositories)
 
+
 ## Skills
 - JavaScript
 - ReactJS
 - HTML 
 - CSS
 - Firebase
+
+  
+#### 📂 Furthermore
+ I'm regularly practicing and honing my skills post-academy with exercises and small projects. You can find these exercises here: https://github.com/TsvetomilaStoilkova/CodePractice .
 
 ## Interests
 
@@ -29,9 +34,6 @@
 ## Languages
 
 - English: Proficient
-
-## 📂 Furthermore
- I'm regularly practicing and honing my skills post-academy with exercises and small projects. You can find these exercises in a folder named "CodePractice" in this repository.
 
 ## 📫 How to reach me:
 <br/> 

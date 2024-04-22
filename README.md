@@ -2,7 +2,7 @@
 
 👀 I’m interested in front-end development.
 
-🌱 I’m currently learning TypeScript to strengthen my skills and improve my development workflow.
+🌱 I’m currently learning TypeScript and Vue to strengthen my skills and improve my development workflow.
 
 💼 I’m actively seeking internship or junior positions where I can collaborate with experienced developers to gain knowledge and experience.
 

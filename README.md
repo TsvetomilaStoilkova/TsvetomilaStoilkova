@@ -17,13 +17,15 @@
 
 ## Skills
 - JavaScript
+- TypeScript
 - ReactJS
 - HTML 
 - CSS
+- Tailwind CSS
 - Firebase
 
   
-#### 📂 Furthermore
+## 📂 Furthermore
  I'm regularly practicing and honing my skills post-academy with exercises and small projects. You can find these exercises here: https://github.com/TsvetomilaStoilkova/CodePractice .
 
 ## Interests

@@ -1,11 +1,6 @@
 👋 Hi, I’m @TsvetomilaStoilkova
 
-👀 I’m interested in front-end development.
-
-🌱 I’m currently learning TypeScript and Vue to strengthen my skills and improve my development workflow.
-
-💼 I’m actively seeking internship or junior positions where I can collaborate with experienced developers to gain knowledge and experience.
-
+👀 I have a strong interest in full-stack development.
 
 ## Education
 
@@ -15,14 +10,12 @@
 📁 You can find projects from my recent completion of the Telerik Academy Alpha JavaScript Track, which I completed with my colleagues, here: [JS-Masters GitHub Organization](https://github.com/orgs/JS-Masters/repositories)
 
 
-## Skills
-- JavaScript
-- TypeScript
-- ReactJS
-- HTML 
-- CSS
-- Tailwind CSS
-- Firebase
+## Skills and interests 
+* Programming Languages: JavaScript, TypeScript
+* Front-end Frameworks & Libraries: ReactJS, Vue.js
+* Back-end Technologies: Node.js, Express
+* Web Technologies: HTML, CSS, Tailwind CSS
+* Database: Firebase, MongoDB
 
   
 ## 📂 Furthermore
